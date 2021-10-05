@@ -1,0 +1,19 @@
+
+
+.ui.borderless.topmenu.menu {
+  background-color: #f4f4f4;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.secondmenu.menu {
+  border:none;
+  box-shadow: none;
+}
+
+.belowimage {
+  font-weight: bold;
+  font-size: large;
+  color: black;
+}
+
